@@ -10,5 +10,4 @@ Cybersecurity professional with 6+ years of experience specializing in offensive
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhilashnigam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhilashnigam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashnigam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
